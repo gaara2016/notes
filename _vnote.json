@@ -11,6 +11,9 @@
         },
         {
             "name": "nginx_log_analysis"
+        },
+        {
+            "name": "word_vector"
         }
     ],
     "tags": [
