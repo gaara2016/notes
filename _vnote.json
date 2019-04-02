@@ -7,10 +7,10 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "folder1"
+            "name": "new_folder"
         },
         {
-            "name": "new_folder"
+            "name": "nginx_log_analysis"
         }
     ],
     "tags": [
